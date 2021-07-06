@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_Padding">8dp</dimen>
+    <dimen name="text_Size">20sp</dimen>
+    <dimen name="layout_Margin">20dp</dimen>
+</resources>
